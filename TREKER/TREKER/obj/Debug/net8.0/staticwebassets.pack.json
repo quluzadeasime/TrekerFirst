@@ -1,0 +1,1413 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TREKER.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TREKER.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\odometer-theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\odometer-theme-default.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\banner-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\banner-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\banner-image-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\banner-pattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\banner-pattern.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\booking-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\booking-bg.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\buy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\buy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\category-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\category-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\category-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\category-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\category-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\category-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\category-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\category-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\f-bottom-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\f-bottom-bg.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\footer-bg.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-5.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\image-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\image-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\newsletter-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\newsletter-bg.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\not-found-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\not-found-bg.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\pattern-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\pattern-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\pattern-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\pattern-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\pattern-layer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\pattern-layer.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\background\\testi-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\testi-image-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\arrow-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-left.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-left.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\arrow-right-o.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-right-o.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\arrow-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-right.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-up.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\back-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\back-arrow.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\banned.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\banned.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\bill.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\bill.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\buy-treker.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\buy-treker.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\calendar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\calendar.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\campings.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\campings.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\cart-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\cart-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\category-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\category-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\check-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\check-icon.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\close-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\close-icon.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\close-menu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\close-menu.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\coupon-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\coupon-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\duration.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\duration.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\email-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\email-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\events.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\events.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\heart-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\heart-icon-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\heart-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\heart-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\hill.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\hill.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-arrow-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-arrow-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-check-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-check-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-check-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-check-3.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-check.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-check.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-phone-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-phone-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-select-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-select-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-select.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-select.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\icon-upload.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-upload.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\key.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\key.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\kitchen-tool.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\kitchen-tool.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\lights.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\lights.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\loc-hover.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\loc-hover.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\loc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\loc.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\location-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\location-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\location.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\location.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\logo-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\logo-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\menu-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\menu-icon.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\menu-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\menu-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\menu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\menu.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\more-arrow-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\more-arrow-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\more-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\more-arrow.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\passport.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\passport.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\phone-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\phone-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\phone-call.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\phone-call.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\preloader.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\preloader.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\printer.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\printer.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\queue.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\queue.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\quote-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quote-icon-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\quote-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quote-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\quotes-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quotes-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\quotes-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quotes-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\quotes-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quotes-3.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\quotes-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quotes-4.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\review-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\review-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\search-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\search-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\share-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\share-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\ship.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\ship.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\smoking.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\smoking.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\speedometer.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\speedometer.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\team-group.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\team-group.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\ticket.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\ticket.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\title-vector-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\title-vector-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\title-vector.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\title-vector.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\toilet.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\toilet.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\tour-guide.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tour-guide.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\travel-insurance.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\travel-insurance.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\vid-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\vid-icon.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\video-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\video-icon-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\video-icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\video-icon-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\wifi-signal.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\wifi-signal.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\zoom-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\zoom-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\icons\\zoom-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\zoom-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-bg-text.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-bg-text.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-image-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-image-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-image-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-image-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-image-3.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-image-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-image-4.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-stones-left.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-stones-left.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\main-slider\\banner-stones-right.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\banner-stones-right.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\404-cloud-left.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\404-cloud-left.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\404-cloud-right.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\404-cloud-right.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\404-image.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\404-image.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-icon-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-icon-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-image-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-image-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-image-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-image-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-image-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-image-3.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-stone-right.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-stone-right.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-stone-two.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-stone-two.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\about-vector-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\about-vector-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-8.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\activity-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\activity-9.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\asia-map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\asia-map.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\dotted-pattern-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\dotted-pattern-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\europe-map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\europe-map.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-icon-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-icon-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-icon-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-icon-3.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-icon-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-icon-4.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-image-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-image-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-image-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-image-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-image-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\f-image-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\f-image-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\faq-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\faq-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\faq-image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\faq-image-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\floated-icon-right-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\floated-icon-right-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-stones.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-stones.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-thumb-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-thumb-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\footer-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\footer-thumb-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-10.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-11.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-12.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-13.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-14.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-15.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-16.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-17.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-18.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-19.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-20.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-21.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-8.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery-9.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\gallery.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\gallery.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\hills-image-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\hills-image-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\hills-image.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\hills-image.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\hotel.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\hotel.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\icon-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\icon-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\icon-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\icon-3.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\icon-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\icon-4.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\icon-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\icon-5.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\icon-6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\icon-6.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-1 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-2 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-3 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-4 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-4 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-5 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-5 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-6 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-6 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-7 - Copy (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-7 - Copy (2).jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-7 - Copy - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-7 - Copy - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-7 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-7 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\news-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\news-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\newsletter-image.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\newsletter-image.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\north-america-map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\north-america-map.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\plant-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\plant-icon.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\post-thumb-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\post-thumb-1 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\post-thumb-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\post-thumb-2 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\post-thumb-3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\post-thumb-3 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-1 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-1 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-2 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-2 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-3 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-3 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-3.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-4 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-4 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\rev-thumb-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\rev-thumb-4.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\prod-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\prod-8.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\rev-thumb-shop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\rev-thumb-shop.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\s-cart-thumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\s-cart-thumb.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\shop-single-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\shop-single-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\shop-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\shop-thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\shop-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\shop-thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\shop\\shop-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\shop\\shop-thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\signature-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\signature-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-1 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-1 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-1.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-2 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-2 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-2.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-3 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-3 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-3.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-4 - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-4 - Copy.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\sponsor-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\sponsor-4.png"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\stones-alt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\stones-alt.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\stones-left.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\stones-left.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\stones-right-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\stones-right-2.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\stones-right-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\stones-right-3.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\stones-right.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\stones-right.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-2 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-3 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-4 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-4 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-5 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-5 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-6 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-6 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-7 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-7 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\team-icon-left.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\team-icon-left.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\testi-image-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\testi-image-1 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\testi-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\testi-image-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\testi-thumb-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\testi-thumb-1 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\testi-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\testi-thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\testi-thumb-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\testi-thumb-2 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\testi-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\testi-thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-1.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-10.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-11.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-12.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-13.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-14.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-15.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-2.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-3.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-4.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-5.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-6.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-7.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-8.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\tour-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\tour-9.jpg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\why-image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\why-image-1.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\images\\resource\\world-map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\resource\\world-map.svg"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\appear.js",
+      "PackagePath": "staticwebassets\\assets\\js\\appear.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\bxslider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bxslider.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-script.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\odometer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\odometer.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\touchspin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\touchspin.js"
+    },
+    {
+      "Id": "E:\\TrekerMS\\TREKER\\TREKER\\wwwroot\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TREKER.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TREKER.props",
+      "PackagePath": "build\\TREKER.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TREKER.props",
+      "PackagePath": "buildMultiTargeting\\TREKER.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TREKER.props",
+      "PackagePath": "buildTransitive\\TREKER.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
